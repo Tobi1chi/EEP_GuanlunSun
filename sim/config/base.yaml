@@ -1,0 +1,17 @@
+project_name: eep-sim
+timezone: Europe/London
+
+soc_defaults:
+  energy_capacity_mwh: 1.0
+  charge_power_max_mw: 0.5
+  discharge_power_max_mw: 0.5
+  eta_charge: 0.95
+  eta_discharge: 0.95
+  soc_min: 0.1
+  soc_max: 0.9
+  soc_initial: 0.5
+  dt_hours: 1.0
+
+notes:
+  - "This is a placeholder baseline config."
+  - "Scenario matrix and optimization configs can be added later."

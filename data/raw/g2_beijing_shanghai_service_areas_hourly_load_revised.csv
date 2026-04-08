@@ -1,0 +1,553 @@
+﻿corridor_index,Service Area,Matched Region (CN),archetype,hour,profile_factor_f,peak_power_mw_nominal,load_mw_nominal,grid_cap_mw,cap_margin_mw_nominal
+1,Majuqiao Service Area,北京,A,0,0.1,0.9,0.09,0.9,0.81
+1,Majuqiao Service Area,北京,A,1,0.1,0.9,0.09,0.9,0.81
+1,Majuqiao Service Area,北京,A,2,0.1,0.9,0.09,0.9,0.81
+1,Majuqiao Service Area,北京,A,3,0.1,0.9,0.09,0.9,0.81
+1,Majuqiao Service Area,北京,A,4,0.1,0.9,0.09,0.9,0.81
+1,Majuqiao Service Area,北京,A,5,0.2,0.9,0.18,0.9,0.72
+1,Majuqiao Service Area,北京,A,6,0.4,0.9,0.36,0.9,0.54
+1,Majuqiao Service Area,北京,A,7,0.5,0.9,0.45,0.9,0.45
+1,Majuqiao Service Area,北京,A,8,0.6,0.9,0.54,0.9,0.36
+1,Majuqiao Service Area,北京,A,9,0.7,0.9,0.63,0.9,0.27
+1,Majuqiao Service Area,北京,A,10,0.8,0.9,0.72,0.9,0.18
+1,Majuqiao Service Area,北京,A,11,0.9,0.9,0.81,0.9,0.09
+1,Majuqiao Service Area,北京,A,12,1.0,0.9,0.9,0.9,0.0
+1,Majuqiao Service Area,北京,A,13,1.0,0.9,0.9,0.9,0.0
+1,Majuqiao Service Area,北京,A,14,1.0,0.9,0.9,0.9,0.0
+1,Majuqiao Service Area,北京,A,15,1.0,0.9,0.9,0.9,0.0
+1,Majuqiao Service Area,北京,A,16,0.9,0.9,0.81,0.9,0.09
+1,Majuqiao Service Area,北京,A,17,0.8,0.9,0.72,0.9,0.18
+1,Majuqiao Service Area,北京,A,18,0.7,0.9,0.63,0.9,0.27
+1,Majuqiao Service Area,北京,A,19,0.6,0.9,0.54,0.9,0.36
+1,Majuqiao Service Area,北京,A,20,0.5,0.9,0.45,0.9,0.45
+1,Majuqiao Service Area,北京,A,21,0.4,0.9,0.36,0.9,0.54
+1,Majuqiao Service Area,北京,A,22,0.2,0.9,0.18,0.9,0.72
+1,Majuqiao Service Area,北京,A,23,0.1,0.9,0.09,0.9,0.81
+2,Yongle Service Area,北京,B,0,0.2,3.2,0.64,1.8,1.16
+2,Yongle Service Area,北京,B,1,0.1,3.2,0.32,1.8,1.48
+2,Yongle Service Area,北京,B,2,0.1,3.2,0.32,1.8,1.48
+2,Yongle Service Area,北京,B,3,0.1,3.2,0.32,1.8,1.48
+2,Yongle Service Area,北京,B,4,0.1,3.2,0.32,1.8,1.48
+2,Yongle Service Area,北京,B,5,0.1,3.2,0.32,1.8,1.48
+2,Yongle Service Area,北京,B,6,0.1,3.2,0.32,1.8,1.48
+2,Yongle Service Area,北京,B,7,0.2,3.2,0.64,1.8,1.16
+2,Yongle Service Area,北京,B,8,0.4,3.2,1.28,1.8,0.52
+2,Yongle Service Area,北京,B,9,0.5,3.2,1.6,1.8,0.2
+2,Yongle Service Area,北京,B,10,0.6,3.2,1.92,1.8,-0.12
+2,Yongle Service Area,北京,B,11,0.7,3.2,2.24,1.8,-0.44
+2,Yongle Service Area,北京,B,12,0.8,3.2,2.56,1.8,-0.76
+2,Yongle Service Area,北京,B,13,0.9,3.2,2.88,1.8,-1.08
+2,Yongle Service Area,北京,B,14,1.0,3.2,3.2,1.8,-1.4
+2,Yongle Service Area,北京,B,15,1.0,3.2,3.2,1.8,-1.4
+2,Yongle Service Area,北京,B,16,1.0,3.2,3.2,1.8,-1.4
+2,Yongle Service Area,北京,B,17,1.0,3.2,3.2,1.8,-1.4
+2,Yongle Service Area,北京,B,18,0.9,3.2,2.88,1.8,-1.08
+2,Yongle Service Area,北京,B,19,0.8,3.2,2.56,1.8,-0.76
+2,Yongle Service Area,北京,B,20,0.7,3.2,2.24,1.8,-0.44
+2,Yongle Service Area,北京,B,21,0.6,3.2,1.92,1.8,-0.12
+2,Yongle Service Area,北京,B,22,0.5,3.2,1.6,1.8,0.2
+2,Yongle Service Area,北京,B,23,0.4,3.2,1.28,1.8,0.52
+3,Qingxian Service Area,河北,C,0,0.5,4.5,2.25,2.8,0.55
+3,Qingxian Service Area,河北,C,1,0.4,4.5,1.8,2.8,1.0
+3,Qingxian Service Area,河北,C,2,0.2,4.5,0.9,2.8,1.9
+3,Qingxian Service Area,河北,C,3,0.1,4.5,0.45,2.8,2.35
+3,Qingxian Service Area,河北,C,4,0.1,4.5,0.45,2.8,2.35
+3,Qingxian Service Area,河北,C,5,0.1,4.5,0.45,2.8,2.35
+3,Qingxian Service Area,河北,C,6,0.1,4.5,0.45,2.8,2.35
+3,Qingxian Service Area,河北,C,7,0.1,4.5,0.45,2.8,2.35
+3,Qingxian Service Area,河北,C,8,0.1,4.5,0.45,2.8,2.35
+3,Qingxian Service Area,河北,C,9,0.2,4.5,0.9,2.8,1.9
+3,Qingxian Service Area,河北,C,10,0.4,4.5,1.8,2.8,1.0
+3,Qingxian Service Area,河北,C,11,0.5,4.5,2.25,2.8,0.55
+3,Qingxian Service Area,河北,C,12,0.6,4.5,2.7,2.8,0.1
+3,Qingxian Service Area,河北,C,13,0.7,4.5,3.15,2.8,-0.35
+3,Qingxian Service Area,河北,C,14,0.8,4.5,3.6,2.8,-0.8
+3,Qingxian Service Area,河北,C,15,0.9,4.5,4.05,2.8,-1.25
+3,Qingxian Service Area,河北,C,16,1.0,4.5,4.5,2.8,-1.7
+3,Qingxian Service Area,河北,C,17,1.0,4.5,4.5,2.8,-1.7
+3,Qingxian Service Area,河北,C,18,1.0,4.5,4.5,2.8,-1.7
+3,Qingxian Service Area,河北,C,19,1.0,4.5,4.5,2.8,-1.7
+3,Qingxian Service Area,河北,C,20,0.9,4.5,4.05,2.8,-1.25
+3,Qingxian Service Area,河北,C,21,0.8,4.5,3.6,2.8,-0.8
+3,Qingxian Service Area,河北,C,22,0.7,4.5,3.15,2.8,-0.35
+3,Qingxian Service Area,河北,C,23,0.6,4.5,2.7,2.8,0.1
+4,Cangzhou Service Area,河北,A,0,0.1,0.9,0.09,0.9,0.81
+4,Cangzhou Service Area,河北,A,1,0.1,0.9,0.09,0.9,0.81
+4,Cangzhou Service Area,河北,A,2,0.1,0.9,0.09,0.9,0.81
+4,Cangzhou Service Area,河北,A,3,0.1,0.9,0.09,0.9,0.81
+4,Cangzhou Service Area,河北,A,4,0.1,0.9,0.09,0.9,0.81
+4,Cangzhou Service Area,河北,A,5,0.2,0.9,0.18,0.9,0.72
+4,Cangzhou Service Area,河北,A,6,0.4,0.9,0.36,0.9,0.54
+4,Cangzhou Service Area,河北,A,7,0.5,0.9,0.45,0.9,0.45
+4,Cangzhou Service Area,河北,A,8,0.6,0.9,0.54,0.9,0.36
+4,Cangzhou Service Area,河北,A,9,0.7,0.9,0.63,0.9,0.27
+4,Cangzhou Service Area,河北,A,10,0.8,0.9,0.72,0.9,0.18
+4,Cangzhou Service Area,河北,A,11,0.9,0.9,0.81,0.9,0.09
+4,Cangzhou Service Area,河北,A,12,1.0,0.9,0.9,0.9,0.0
+4,Cangzhou Service Area,河北,A,13,1.0,0.9,0.9,0.9,0.0
+4,Cangzhou Service Area,河北,A,14,1.0,0.9,0.9,0.9,0.0
+4,Cangzhou Service Area,河北,A,15,1.0,0.9,0.9,0.9,0.0
+4,Cangzhou Service Area,河北,A,16,0.9,0.9,0.81,0.9,0.09
+4,Cangzhou Service Area,河北,A,17,0.8,0.9,0.72,0.9,0.18
+4,Cangzhou Service Area,河北,A,18,0.7,0.9,0.63,0.9,0.27
+4,Cangzhou Service Area,河北,A,19,0.6,0.9,0.54,0.9,0.36
+4,Cangzhou Service Area,河北,A,20,0.5,0.9,0.45,0.9,0.45
+4,Cangzhou Service Area,河北,A,21,0.4,0.9,0.36,0.9,0.54
+4,Cangzhou Service Area,河北,A,22,0.2,0.9,0.18,0.9,0.72
+4,Cangzhou Service Area,河北,A,23,0.1,0.9,0.09,0.9,0.81
+5,Wangqingtuo Service Area,天津,B,0,0.2,3.2,0.64,1.8,1.16
+5,Wangqingtuo Service Area,天津,B,1,0.1,3.2,0.32,1.8,1.48
+5,Wangqingtuo Service Area,天津,B,2,0.1,3.2,0.32,1.8,1.48
+5,Wangqingtuo Service Area,天津,B,3,0.1,3.2,0.32,1.8,1.48
+5,Wangqingtuo Service Area,天津,B,4,0.1,3.2,0.32,1.8,1.48
+5,Wangqingtuo Service Area,天津,B,5,0.1,3.2,0.32,1.8,1.48
+5,Wangqingtuo Service Area,天津,B,6,0.1,3.2,0.32,1.8,1.48
+5,Wangqingtuo Service Area,天津,B,7,0.2,3.2,0.64,1.8,1.16
+5,Wangqingtuo Service Area,天津,B,8,0.4,3.2,1.28,1.8,0.52
+5,Wangqingtuo Service Area,天津,B,9,0.5,3.2,1.6,1.8,0.2
+5,Wangqingtuo Service Area,天津,B,10,0.6,3.2,1.92,1.8,-0.12
+5,Wangqingtuo Service Area,天津,B,11,0.7,3.2,2.24,1.8,-0.44
+5,Wangqingtuo Service Area,天津,B,12,0.8,3.2,2.56,1.8,-0.76
+5,Wangqingtuo Service Area,天津,B,13,0.9,3.2,2.88,1.8,-1.08
+5,Wangqingtuo Service Area,天津,B,14,1.0,3.2,3.2,1.8,-1.4
+5,Wangqingtuo Service Area,天津,B,15,1.0,3.2,3.2,1.8,-1.4
+5,Wangqingtuo Service Area,天津,B,16,1.0,3.2,3.2,1.8,-1.4
+5,Wangqingtuo Service Area,天津,B,17,1.0,3.2,3.2,1.8,-1.4
+5,Wangqingtuo Service Area,天津,B,18,0.9,3.2,2.88,1.8,-1.08
+5,Wangqingtuo Service Area,天津,B,19,0.8,3.2,2.56,1.8,-0.76
+5,Wangqingtuo Service Area,天津,B,20,0.7,3.2,2.24,1.8,-0.44
+5,Wangqingtuo Service Area,天津,B,21,0.6,3.2,1.92,1.8,-0.12
+5,Wangqingtuo Service Area,天津,B,22,0.5,3.2,1.6,1.8,0.2
+5,Wangqingtuo Service Area,天津,B,23,0.4,3.2,1.28,1.8,0.52
+6,Dezhou Service Area,山东,C,0,0.5,4.5,2.25,2.8,0.55
+6,Dezhou Service Area,山东,C,1,0.4,4.5,1.8,2.8,1.0
+6,Dezhou Service Area,山东,C,2,0.2,4.5,0.9,2.8,1.9
+6,Dezhou Service Area,山东,C,3,0.1,4.5,0.45,2.8,2.35
+6,Dezhou Service Area,山东,C,4,0.1,4.5,0.45,2.8,2.35
+6,Dezhou Service Area,山东,C,5,0.1,4.5,0.45,2.8,2.35
+6,Dezhou Service Area,山东,C,6,0.1,4.5,0.45,2.8,2.35
+6,Dezhou Service Area,山东,C,7,0.1,4.5,0.45,2.8,2.35
+6,Dezhou Service Area,山东,C,8,0.1,4.5,0.45,2.8,2.35
+6,Dezhou Service Area,山东,C,9,0.2,4.5,0.9,2.8,1.9
+6,Dezhou Service Area,山东,C,10,0.4,4.5,1.8,2.8,1.0
+6,Dezhou Service Area,山东,C,11,0.5,4.5,2.25,2.8,0.55
+6,Dezhou Service Area,山东,C,12,0.6,4.5,2.7,2.8,0.1
+6,Dezhou Service Area,山东,C,13,0.7,4.5,3.15,2.8,-0.35
+6,Dezhou Service Area,山东,C,14,0.8,4.5,3.6,2.8,-0.8
+6,Dezhou Service Area,山东,C,15,0.9,4.5,4.05,2.8,-1.25
+6,Dezhou Service Area,山东,C,16,1.0,4.5,4.5,2.8,-1.7
+6,Dezhou Service Area,山东,C,17,1.0,4.5,4.5,2.8,-1.7
+6,Dezhou Service Area,山东,C,18,1.0,4.5,4.5,2.8,-1.7
+6,Dezhou Service Area,山东,C,19,1.0,4.5,4.5,2.8,-1.7
+6,Dezhou Service Area,山东,C,20,0.9,4.5,4.05,2.8,-1.25
+6,Dezhou Service Area,山东,C,21,0.8,4.5,3.6,2.8,-0.8
+6,Dezhou Service Area,山东,C,22,0.7,4.5,3.15,2.8,-0.35
+6,Dezhou Service Area,山东,C,23,0.6,4.5,2.7,2.8,0.1
+7,Yucheng Service Area,山东,A,0,0.1,0.9,0.09,0.9,0.81
+7,Yucheng Service Area,山东,A,1,0.1,0.9,0.09,0.9,0.81
+7,Yucheng Service Area,山东,A,2,0.1,0.9,0.09,0.9,0.81
+7,Yucheng Service Area,山东,A,3,0.1,0.9,0.09,0.9,0.81
+7,Yucheng Service Area,山东,A,4,0.1,0.9,0.09,0.9,0.81
+7,Yucheng Service Area,山东,A,5,0.2,0.9,0.18,0.9,0.72
+7,Yucheng Service Area,山东,A,6,0.4,0.9,0.36,0.9,0.54
+7,Yucheng Service Area,山东,A,7,0.5,0.9,0.45,0.9,0.45
+7,Yucheng Service Area,山东,A,8,0.6,0.9,0.54,0.9,0.36
+7,Yucheng Service Area,山东,A,9,0.7,0.9,0.63,0.9,0.27
+7,Yucheng Service Area,山东,A,10,0.8,0.9,0.72,0.9,0.18
+7,Yucheng Service Area,山东,A,11,0.9,0.9,0.81,0.9,0.09
+7,Yucheng Service Area,山东,A,12,1.0,0.9,0.9,0.9,0.0
+7,Yucheng Service Area,山东,A,13,1.0,0.9,0.9,0.9,0.0
+7,Yucheng Service Area,山东,A,14,1.0,0.9,0.9,0.9,0.0
+7,Yucheng Service Area,山东,A,15,1.0,0.9,0.9,0.9,0.0
+7,Yucheng Service Area,山东,A,16,0.9,0.9,0.81,0.9,0.09
+7,Yucheng Service Area,山东,A,17,0.8,0.9,0.72,0.9,0.18
+7,Yucheng Service Area,山东,A,18,0.7,0.9,0.63,0.9,0.27
+7,Yucheng Service Area,山东,A,19,0.6,0.9,0.54,0.9,0.36
+7,Yucheng Service Area,山东,A,20,0.5,0.9,0.45,0.9,0.45
+7,Yucheng Service Area,山东,A,21,0.4,0.9,0.36,0.9,0.54
+7,Yucheng Service Area,山东,A,22,0.2,0.9,0.18,0.9,0.72
+7,Yucheng Service Area,山东,A,23,0.1,0.9,0.09,0.9,0.81
+8,Jinan Service Area,山东,B,0,0.2,3.2,0.64,1.8,1.16
+8,Jinan Service Area,山东,B,1,0.1,3.2,0.32,1.8,1.48
+8,Jinan Service Area,山东,B,2,0.1,3.2,0.32,1.8,1.48
+8,Jinan Service Area,山东,B,3,0.1,3.2,0.32,1.8,1.48
+8,Jinan Service Area,山东,B,4,0.1,3.2,0.32,1.8,1.48
+8,Jinan Service Area,山东,B,5,0.1,3.2,0.32,1.8,1.48
+8,Jinan Service Area,山东,B,6,0.1,3.2,0.32,1.8,1.48
+8,Jinan Service Area,山东,B,7,0.2,3.2,0.64,1.8,1.16
+8,Jinan Service Area,山东,B,8,0.4,3.2,1.28,1.8,0.52
+8,Jinan Service Area,山东,B,9,0.5,3.2,1.6,1.8,0.2
+8,Jinan Service Area,山东,B,10,0.6,3.2,1.92,1.8,-0.12
+8,Jinan Service Area,山东,B,11,0.7,3.2,2.24,1.8,-0.44
+8,Jinan Service Area,山东,B,12,0.8,3.2,2.56,1.8,-0.76
+8,Jinan Service Area,山东,B,13,0.9,3.2,2.88,1.8,-1.08
+8,Jinan Service Area,山东,B,14,1.0,3.2,3.2,1.8,-1.4
+8,Jinan Service Area,山东,B,15,1.0,3.2,3.2,1.8,-1.4
+8,Jinan Service Area,山东,B,16,1.0,3.2,3.2,1.8,-1.4
+8,Jinan Service Area,山东,B,17,1.0,3.2,3.2,1.8,-1.4
+8,Jinan Service Area,山东,B,18,0.9,3.2,2.88,1.8,-1.08
+8,Jinan Service Area,山东,B,19,0.8,3.2,2.56,1.8,-0.76
+8,Jinan Service Area,山东,B,20,0.7,3.2,2.24,1.8,-0.44
+8,Jinan Service Area,山东,B,21,0.6,3.2,1.92,1.8,-0.12
+8,Jinan Service Area,山东,B,22,0.5,3.2,1.6,1.8,0.2
+8,Jinan Service Area,山东,B,23,0.4,3.2,1.28,1.8,0.52
+9,Laiwu Service Area,山东,C,0,0.5,4.5,2.25,2.8,0.55
+9,Laiwu Service Area,山东,C,1,0.4,4.5,1.8,2.8,1.0
+9,Laiwu Service Area,山东,C,2,0.2,4.5,0.9,2.8,1.9
+9,Laiwu Service Area,山东,C,3,0.1,4.5,0.45,2.8,2.35
+9,Laiwu Service Area,山东,C,4,0.1,4.5,0.45,2.8,2.35
+9,Laiwu Service Area,山东,C,5,0.1,4.5,0.45,2.8,2.35
+9,Laiwu Service Area,山东,C,6,0.1,4.5,0.45,2.8,2.35
+9,Laiwu Service Area,山东,C,7,0.1,4.5,0.45,2.8,2.35
+9,Laiwu Service Area,山东,C,8,0.1,4.5,0.45,2.8,2.35
+9,Laiwu Service Area,山东,C,9,0.2,4.5,0.9,2.8,1.9
+9,Laiwu Service Area,山东,C,10,0.4,4.5,1.8,2.8,1.0
+9,Laiwu Service Area,山东,C,11,0.5,4.5,2.25,2.8,0.55
+9,Laiwu Service Area,山东,C,12,0.6,4.5,2.7,2.8,0.1
+9,Laiwu Service Area,山东,C,13,0.7,4.5,3.15,2.8,-0.35
+9,Laiwu Service Area,山东,C,14,0.8,4.5,3.6,2.8,-0.8
+9,Laiwu Service Area,山东,C,15,0.9,4.5,4.05,2.8,-1.25
+9,Laiwu Service Area,山东,C,16,1.0,4.5,4.5,2.8,-1.7
+9,Laiwu Service Area,山东,C,17,1.0,4.5,4.5,2.8,-1.7
+9,Laiwu Service Area,山东,C,18,1.0,4.5,4.5,2.8,-1.7
+9,Laiwu Service Area,山东,C,19,1.0,4.5,4.5,2.8,-1.7
+9,Laiwu Service Area,山东,C,20,0.9,4.5,4.05,2.8,-1.25
+9,Laiwu Service Area,山东,C,21,0.8,4.5,3.6,2.8,-0.8
+9,Laiwu Service Area,山东,C,22,0.7,4.5,3.15,2.8,-0.35
+9,Laiwu Service Area,山东,C,23,0.6,4.5,2.7,2.8,0.1
+10,Xintai Service Area,山东,A,0,0.1,0.9,0.09,0.9,0.81
+10,Xintai Service Area,山东,A,1,0.1,0.9,0.09,0.9,0.81
+10,Xintai Service Area,山东,A,2,0.1,0.9,0.09,0.9,0.81
+10,Xintai Service Area,山东,A,3,0.1,0.9,0.09,0.9,0.81
+10,Xintai Service Area,山东,A,4,0.1,0.9,0.09,0.9,0.81
+10,Xintai Service Area,山东,A,5,0.2,0.9,0.18,0.9,0.72
+10,Xintai Service Area,山东,A,6,0.4,0.9,0.36,0.9,0.54
+10,Xintai Service Area,山东,A,7,0.5,0.9,0.45,0.9,0.45
+10,Xintai Service Area,山东,A,8,0.6,0.9,0.54,0.9,0.36
+10,Xintai Service Area,山东,A,9,0.7,0.9,0.63,0.9,0.27
+10,Xintai Service Area,山东,A,10,0.8,0.9,0.72,0.9,0.18
+10,Xintai Service Area,山东,A,11,0.9,0.9,0.81,0.9,0.09
+10,Xintai Service Area,山东,A,12,1.0,0.9,0.9,0.9,0.0
+10,Xintai Service Area,山东,A,13,1.0,0.9,0.9,0.9,0.0
+10,Xintai Service Area,山东,A,14,1.0,0.9,0.9,0.9,0.0
+10,Xintai Service Area,山东,A,15,1.0,0.9,0.9,0.9,0.0
+10,Xintai Service Area,山东,A,16,0.9,0.9,0.81,0.9,0.09
+10,Xintai Service Area,山东,A,17,0.8,0.9,0.72,0.9,0.18
+10,Xintai Service Area,山东,A,18,0.7,0.9,0.63,0.9,0.27
+10,Xintai Service Area,山东,A,19,0.6,0.9,0.54,0.9,0.36
+10,Xintai Service Area,山东,A,20,0.5,0.9,0.45,0.9,0.45
+10,Xintai Service Area,山东,A,21,0.4,0.9,0.36,0.9,0.54
+10,Xintai Service Area,山东,A,22,0.2,0.9,0.18,0.9,0.72
+10,Xintai Service Area,山东,A,23,0.1,0.9,0.09,0.9,0.81
+11,Linyi Service Area,山东,B,0,0.2,3.2,0.64,1.8,1.16
+11,Linyi Service Area,山东,B,1,0.1,3.2,0.32,1.8,1.48
+11,Linyi Service Area,山东,B,2,0.1,3.2,0.32,1.8,1.48
+11,Linyi Service Area,山东,B,3,0.1,3.2,0.32,1.8,1.48
+11,Linyi Service Area,山东,B,4,0.1,3.2,0.32,1.8,1.48
+11,Linyi Service Area,山东,B,5,0.1,3.2,0.32,1.8,1.48
+11,Linyi Service Area,山东,B,6,0.1,3.2,0.32,1.8,1.48
+11,Linyi Service Area,山东,B,7,0.2,3.2,0.64,1.8,1.16
+11,Linyi Service Area,山东,B,8,0.4,3.2,1.28,1.8,0.52
+11,Linyi Service Area,山东,B,9,0.5,3.2,1.6,1.8,0.2
+11,Linyi Service Area,山东,B,10,0.6,3.2,1.92,1.8,-0.12
+11,Linyi Service Area,山东,B,11,0.7,3.2,2.24,1.8,-0.44
+11,Linyi Service Area,山东,B,12,0.8,3.2,2.56,1.8,-0.76
+11,Linyi Service Area,山东,B,13,0.9,3.2,2.88,1.8,-1.08
+11,Linyi Service Area,山东,B,14,1.0,3.2,3.2,1.8,-1.4
+11,Linyi Service Area,山东,B,15,1.0,3.2,3.2,1.8,-1.4
+11,Linyi Service Area,山东,B,16,1.0,3.2,3.2,1.8,-1.4
+11,Linyi Service Area,山东,B,17,1.0,3.2,3.2,1.8,-1.4
+11,Linyi Service Area,山东,B,18,0.9,3.2,2.88,1.8,-1.08
+11,Linyi Service Area,山东,B,19,0.8,3.2,2.56,1.8,-0.76
+11,Linyi Service Area,山东,B,20,0.7,3.2,2.24,1.8,-0.44
+11,Linyi Service Area,山东,B,21,0.6,3.2,1.92,1.8,-0.12
+11,Linyi Service Area,山东,B,22,0.5,3.2,1.6,1.8,0.2
+11,Linyi Service Area,山东,B,23,0.4,3.2,1.28,1.8,0.52
+12,Xinyi Service Area,江苏,C,0,0.5,4.5,2.25,2.8,0.55
+12,Xinyi Service Area,江苏,C,1,0.4,4.5,1.8,2.8,1.0
+12,Xinyi Service Area,江苏,C,2,0.2,4.5,0.9,2.8,1.9
+12,Xinyi Service Area,江苏,C,3,0.1,4.5,0.45,2.8,2.35
+12,Xinyi Service Area,江苏,C,4,0.1,4.5,0.45,2.8,2.35
+12,Xinyi Service Area,江苏,C,5,0.1,4.5,0.45,2.8,2.35
+12,Xinyi Service Area,江苏,C,6,0.1,4.5,0.45,2.8,2.35
+12,Xinyi Service Area,江苏,C,7,0.1,4.5,0.45,2.8,2.35
+12,Xinyi Service Area,江苏,C,8,0.1,4.5,0.45,2.8,2.35
+12,Xinyi Service Area,江苏,C,9,0.2,4.5,0.9,2.8,1.9
+12,Xinyi Service Area,江苏,C,10,0.4,4.5,1.8,2.8,1.0
+12,Xinyi Service Area,江苏,C,11,0.5,4.5,2.25,2.8,0.55
+12,Xinyi Service Area,江苏,C,12,0.6,4.5,2.7,2.8,0.1
+12,Xinyi Service Area,江苏,C,13,0.7,4.5,3.15,2.8,-0.35
+12,Xinyi Service Area,江苏,C,14,0.8,4.5,3.6,2.8,-0.8
+12,Xinyi Service Area,江苏,C,15,0.9,4.5,4.05,2.8,-1.25
+12,Xinyi Service Area,江苏,C,16,1.0,4.5,4.5,2.8,-1.7
+12,Xinyi Service Area,江苏,C,17,1.0,4.5,4.5,2.8,-1.7
+12,Xinyi Service Area,江苏,C,18,1.0,4.5,4.5,2.8,-1.7
+12,Xinyi Service Area,江苏,C,19,1.0,4.5,4.5,2.8,-1.7
+12,Xinyi Service Area,江苏,C,20,0.9,4.5,4.05,2.8,-1.25
+12,Xinyi Service Area,江苏,C,21,0.8,4.5,3.6,2.8,-0.8
+12,Xinyi Service Area,江苏,C,22,0.7,4.5,3.15,2.8,-0.35
+12,Xinyi Service Area,江苏,C,23,0.6,4.5,2.7,2.8,0.1
+13,Shuyang Service Area,江苏,A,0,0.1,0.9,0.09,0.9,0.81
+13,Shuyang Service Area,江苏,A,1,0.1,0.9,0.09,0.9,0.81
+13,Shuyang Service Area,江苏,A,2,0.1,0.9,0.09,0.9,0.81
+13,Shuyang Service Area,江苏,A,3,0.1,0.9,0.09,0.9,0.81
+13,Shuyang Service Area,江苏,A,4,0.1,0.9,0.09,0.9,0.81
+13,Shuyang Service Area,江苏,A,5,0.2,0.9,0.18,0.9,0.72
+13,Shuyang Service Area,江苏,A,6,0.4,0.9,0.36,0.9,0.54
+13,Shuyang Service Area,江苏,A,7,0.5,0.9,0.45,0.9,0.45
+13,Shuyang Service Area,江苏,A,8,0.6,0.9,0.54,0.9,0.36
+13,Shuyang Service Area,江苏,A,9,0.7,0.9,0.63,0.9,0.27
+13,Shuyang Service Area,江苏,A,10,0.8,0.9,0.72,0.9,0.18
+13,Shuyang Service Area,江苏,A,11,0.9,0.9,0.81,0.9,0.09
+13,Shuyang Service Area,江苏,A,12,1.0,0.9,0.9,0.9,0.0
+13,Shuyang Service Area,江苏,A,13,1.0,0.9,0.9,0.9,0.0
+13,Shuyang Service Area,江苏,A,14,1.0,0.9,0.9,0.9,0.0
+13,Shuyang Service Area,江苏,A,15,1.0,0.9,0.9,0.9,0.0
+13,Shuyang Service Area,江苏,A,16,0.9,0.9,0.81,0.9,0.09
+13,Shuyang Service Area,江苏,A,17,0.8,0.9,0.72,0.9,0.18
+13,Shuyang Service Area,江苏,A,18,0.7,0.9,0.63,0.9,0.27
+13,Shuyang Service Area,江苏,A,19,0.6,0.9,0.54,0.9,0.36
+13,Shuyang Service Area,江苏,A,20,0.5,0.9,0.45,0.9,0.45
+13,Shuyang Service Area,江苏,A,21,0.4,0.9,0.36,0.9,0.54
+13,Shuyang Service Area,江苏,A,22,0.2,0.9,0.18,0.9,0.72
+13,Shuyang Service Area,江苏,A,23,0.1,0.9,0.09,0.9,0.81
+14,Huai'an Chuanxing Service Area,江苏,B,0,0.2,3.2,0.64,1.8,1.16
+14,Huai'an Chuanxing Service Area,江苏,B,1,0.1,3.2,0.32,1.8,1.48
+14,Huai'an Chuanxing Service Area,江苏,B,2,0.1,3.2,0.32,1.8,1.48
+14,Huai'an Chuanxing Service Area,江苏,B,3,0.1,3.2,0.32,1.8,1.48
+14,Huai'an Chuanxing Service Area,江苏,B,4,0.1,3.2,0.32,1.8,1.48
+14,Huai'an Chuanxing Service Area,江苏,B,5,0.1,3.2,0.32,1.8,1.48
+14,Huai'an Chuanxing Service Area,江苏,B,6,0.1,3.2,0.32,1.8,1.48
+14,Huai'an Chuanxing Service Area,江苏,B,7,0.2,3.2,0.64,1.8,1.16
+14,Huai'an Chuanxing Service Area,江苏,B,8,0.4,3.2,1.28,1.8,0.52
+14,Huai'an Chuanxing Service Area,江苏,B,9,0.5,3.2,1.6,1.8,0.2
+14,Huai'an Chuanxing Service Area,江苏,B,10,0.6,3.2,1.92,1.8,-0.12
+14,Huai'an Chuanxing Service Area,江苏,B,11,0.7,3.2,2.24,1.8,-0.44
+14,Huai'an Chuanxing Service Area,江苏,B,12,0.8,3.2,2.56,1.8,-0.76
+14,Huai'an Chuanxing Service Area,江苏,B,13,0.9,3.2,2.88,1.8,-1.08
+14,Huai'an Chuanxing Service Area,江苏,B,14,1.0,3.2,3.2,1.8,-1.4
+14,Huai'an Chuanxing Service Area,江苏,B,15,1.0,3.2,3.2,1.8,-1.4
+14,Huai'an Chuanxing Service Area,江苏,B,16,1.0,3.2,3.2,1.8,-1.4
+14,Huai'an Chuanxing Service Area,江苏,B,17,1.0,3.2,3.2,1.8,-1.4
+14,Huai'an Chuanxing Service Area,江苏,B,18,0.9,3.2,2.88,1.8,-1.08
+14,Huai'an Chuanxing Service Area,江苏,B,19,0.8,3.2,2.56,1.8,-0.76
+14,Huai'an Chuanxing Service Area,江苏,B,20,0.7,3.2,2.24,1.8,-0.44
+14,Huai'an Chuanxing Service Area,江苏,B,21,0.6,3.2,1.92,1.8,-0.12
+14,Huai'an Chuanxing Service Area,江苏,B,22,0.5,3.2,1.6,1.8,0.2
+14,Huai'an Chuanxing Service Area,江苏,B,23,0.4,3.2,1.28,1.8,0.52
+15,Huai'an Liudong Service Area,江苏,C,0,0.5,4.5,2.25,2.8,0.55
+15,Huai'an Liudong Service Area,江苏,C,1,0.4,4.5,1.8,2.8,1.0
+15,Huai'an Liudong Service Area,江苏,C,2,0.2,4.5,0.9,2.8,1.9
+15,Huai'an Liudong Service Area,江苏,C,3,0.1,4.5,0.45,2.8,2.35
+15,Huai'an Liudong Service Area,江苏,C,4,0.1,4.5,0.45,2.8,2.35
+15,Huai'an Liudong Service Area,江苏,C,5,0.1,4.5,0.45,2.8,2.35
+15,Huai'an Liudong Service Area,江苏,C,6,0.1,4.5,0.45,2.8,2.35
+15,Huai'an Liudong Service Area,江苏,C,7,0.1,4.5,0.45,2.8,2.35
+15,Huai'an Liudong Service Area,江苏,C,8,0.1,4.5,0.45,2.8,2.35
+15,Huai'an Liudong Service Area,江苏,C,9,0.2,4.5,0.9,2.8,1.9
+15,Huai'an Liudong Service Area,江苏,C,10,0.4,4.5,1.8,2.8,1.0
+15,Huai'an Liudong Service Area,江苏,C,11,0.5,4.5,2.25,2.8,0.55
+15,Huai'an Liudong Service Area,江苏,C,12,0.6,4.5,2.7,2.8,0.1
+15,Huai'an Liudong Service Area,江苏,C,13,0.7,4.5,3.15,2.8,-0.35
+15,Huai'an Liudong Service Area,江苏,C,14,0.8,4.5,3.6,2.8,-0.8
+15,Huai'an Liudong Service Area,江苏,C,15,0.9,4.5,4.05,2.8,-1.25
+15,Huai'an Liudong Service Area,江苏,C,16,1.0,4.5,4.5,2.8,-1.7
+15,Huai'an Liudong Service Area,江苏,C,17,1.0,4.5,4.5,2.8,-1.7
+15,Huai'an Liudong Service Area,江苏,C,18,1.0,4.5,4.5,2.8,-1.7
+15,Huai'an Liudong Service Area,江苏,C,19,1.0,4.5,4.5,2.8,-1.7
+15,Huai'an Liudong Service Area,江苏,C,20,0.9,4.5,4.05,2.8,-1.25
+15,Huai'an Liudong Service Area,江苏,C,21,0.8,4.5,3.6,2.8,-0.8
+15,Huai'an Liudong Service Area,江苏,C,22,0.7,4.5,3.15,2.8,-0.35
+15,Huai'an Liudong Service Area,江苏,C,23,0.6,4.5,2.7,2.8,0.1
+16,Fanshui Service Area,江苏,A,0,0.1,0.9,0.09,0.9,0.81
+16,Fanshui Service Area,江苏,A,1,0.1,0.9,0.09,0.9,0.81
+16,Fanshui Service Area,江苏,A,2,0.1,0.9,0.09,0.9,0.81
+16,Fanshui Service Area,江苏,A,3,0.1,0.9,0.09,0.9,0.81
+16,Fanshui Service Area,江苏,A,4,0.1,0.9,0.09,0.9,0.81
+16,Fanshui Service Area,江苏,A,5,0.2,0.9,0.18,0.9,0.72
+16,Fanshui Service Area,江苏,A,6,0.4,0.9,0.36,0.9,0.54
+16,Fanshui Service Area,江苏,A,7,0.5,0.9,0.45,0.9,0.45
+16,Fanshui Service Area,江苏,A,8,0.6,0.9,0.54,0.9,0.36
+16,Fanshui Service Area,江苏,A,9,0.7,0.9,0.63,0.9,0.27
+16,Fanshui Service Area,江苏,A,10,0.8,0.9,0.72,0.9,0.18
+16,Fanshui Service Area,江苏,A,11,0.9,0.9,0.81,0.9,0.09
+16,Fanshui Service Area,江苏,A,12,1.0,0.9,0.9,0.9,0.0
+16,Fanshui Service Area,江苏,A,13,1.0,0.9,0.9,0.9,0.0
+16,Fanshui Service Area,江苏,A,14,1.0,0.9,0.9,0.9,0.0
+16,Fanshui Service Area,江苏,A,15,1.0,0.9,0.9,0.9,0.0
+16,Fanshui Service Area,江苏,A,16,0.9,0.9,0.81,0.9,0.09
+16,Fanshui Service Area,江苏,A,17,0.8,0.9,0.72,0.9,0.18
+16,Fanshui Service Area,江苏,A,18,0.7,0.9,0.63,0.9,0.27
+16,Fanshui Service Area,江苏,A,19,0.6,0.9,0.54,0.9,0.36
+16,Fanshui Service Area,江苏,A,20,0.5,0.9,0.45,0.9,0.45
+16,Fanshui Service Area,江苏,A,21,0.4,0.9,0.36,0.9,0.54
+16,Fanshui Service Area,江苏,A,22,0.2,0.9,0.18,0.9,0.72
+16,Fanshui Service Area,江苏,A,23,0.1,0.9,0.09,0.9,0.81
+17,Longben Service Area,江苏,B,0,0.2,3.2,0.64,1.8,1.16
+17,Longben Service Area,江苏,B,1,0.1,3.2,0.32,1.8,1.48
+17,Longben Service Area,江苏,B,2,0.1,3.2,0.32,1.8,1.48
+17,Longben Service Area,江苏,B,3,0.1,3.2,0.32,1.8,1.48
+17,Longben Service Area,江苏,B,4,0.1,3.2,0.32,1.8,1.48
+17,Longben Service Area,江苏,B,5,0.1,3.2,0.32,1.8,1.48
+17,Longben Service Area,江苏,B,6,0.1,3.2,0.32,1.8,1.48
+17,Longben Service Area,江苏,B,7,0.2,3.2,0.64,1.8,1.16
+17,Longben Service Area,江苏,B,8,0.4,3.2,1.28,1.8,0.52
+17,Longben Service Area,江苏,B,9,0.5,3.2,1.6,1.8,0.2
+17,Longben Service Area,江苏,B,10,0.6,3.2,1.92,1.8,-0.12
+17,Longben Service Area,江苏,B,11,0.7,3.2,2.24,1.8,-0.44
+17,Longben Service Area,江苏,B,12,0.8,3.2,2.56,1.8,-0.76
+17,Longben Service Area,江苏,B,13,0.9,3.2,2.88,1.8,-1.08
+17,Longben Service Area,江苏,B,14,1.0,3.2,3.2,1.8,-1.4
+17,Longben Service Area,江苏,B,15,1.0,3.2,3.2,1.8,-1.4
+17,Longben Service Area,江苏,B,16,1.0,3.2,3.2,1.8,-1.4
+17,Longben Service Area,江苏,B,17,1.0,3.2,3.2,1.8,-1.4
+17,Longben Service Area,江苏,B,18,0.9,3.2,2.88,1.8,-1.08
+17,Longben Service Area,江苏,B,19,0.8,3.2,2.56,1.8,-0.76
+17,Longben Service Area,江苏,B,20,0.7,3.2,2.24,1.8,-0.44
+17,Longben Service Area,江苏,B,21,0.6,3.2,1.92,1.8,-0.12
+17,Longben Service Area,江苏,B,22,0.5,3.2,1.6,1.8,0.2
+17,Longben Service Area,江苏,B,23,0.4,3.2,1.28,1.8,0.52
+18,Zhengyi Service Area,江苏,C,0,0.5,4.5,2.25,2.8,0.55
+18,Zhengyi Service Area,江苏,C,1,0.4,4.5,1.8,2.8,1.0
+18,Zhengyi Service Area,江苏,C,2,0.2,4.5,0.9,2.8,1.9
+18,Zhengyi Service Area,江苏,C,3,0.1,4.5,0.45,2.8,2.35
+18,Zhengyi Service Area,江苏,C,4,0.1,4.5,0.45,2.8,2.35
+18,Zhengyi Service Area,江苏,C,5,0.1,4.5,0.45,2.8,2.35
+18,Zhengyi Service Area,江苏,C,6,0.1,4.5,0.45,2.8,2.35
+18,Zhengyi Service Area,江苏,C,7,0.1,4.5,0.45,2.8,2.35
+18,Zhengyi Service Area,江苏,C,8,0.1,4.5,0.45,2.8,2.35
+18,Zhengyi Service Area,江苏,C,9,0.2,4.5,0.9,2.8,1.9
+18,Zhengyi Service Area,江苏,C,10,0.4,4.5,1.8,2.8,1.0
+18,Zhengyi Service Area,江苏,C,11,0.5,4.5,2.25,2.8,0.55
+18,Zhengyi Service Area,江苏,C,12,0.6,4.5,2.7,2.8,0.1
+18,Zhengyi Service Area,江苏,C,13,0.7,4.5,3.15,2.8,-0.35
+18,Zhengyi Service Area,江苏,C,14,0.8,4.5,3.6,2.8,-0.8
+18,Zhengyi Service Area,江苏,C,15,0.9,4.5,4.05,2.8,-1.25
+18,Zhengyi Service Area,江苏,C,16,1.0,4.5,4.5,2.8,-1.7
+18,Zhengyi Service Area,江苏,C,17,1.0,4.5,4.5,2.8,-1.7
+18,Zhengyi Service Area,江苏,C,18,1.0,4.5,4.5,2.8,-1.7
+18,Zhengyi Service Area,江苏,C,19,1.0,4.5,4.5,2.8,-1.7
+18,Zhengyi Service Area,江苏,C,20,0.9,4.5,4.05,2.8,-1.25
+18,Zhengyi Service Area,江苏,C,21,0.8,4.5,3.6,2.8,-0.8
+18,Zhengyi Service Area,江苏,C,22,0.7,4.5,3.15,2.8,-0.35
+18,Zhengyi Service Area,江苏,C,23,0.6,4.5,2.7,2.8,0.1
+19,Xuanbao Service Area,江苏,A,0,0.1,0.9,0.09,0.9,0.81
+19,Xuanbao Service Area,江苏,A,1,0.1,0.9,0.09,0.9,0.81
+19,Xuanbao Service Area,江苏,A,2,0.1,0.9,0.09,0.9,0.81
+19,Xuanbao Service Area,江苏,A,3,0.1,0.9,0.09,0.9,0.81
+19,Xuanbao Service Area,江苏,A,4,0.1,0.9,0.09,0.9,0.81
+19,Xuanbao Service Area,江苏,A,5,0.2,0.9,0.18,0.9,0.72
+19,Xuanbao Service Area,江苏,A,6,0.4,0.9,0.36,0.9,0.54
+19,Xuanbao Service Area,江苏,A,7,0.5,0.9,0.45,0.9,0.45
+19,Xuanbao Service Area,江苏,A,8,0.6,0.9,0.54,0.9,0.36
+19,Xuanbao Service Area,江苏,A,9,0.7,0.9,0.63,0.9,0.27
+19,Xuanbao Service Area,江苏,A,10,0.8,0.9,0.72,0.9,0.18
+19,Xuanbao Service Area,江苏,A,11,0.9,0.9,0.81,0.9,0.09
+19,Xuanbao Service Area,江苏,A,12,1.0,0.9,0.9,0.9,0.0
+19,Xuanbao Service Area,江苏,A,13,1.0,0.9,0.9,0.9,0.0
+19,Xuanbao Service Area,江苏,A,14,1.0,0.9,0.9,0.9,0.0
+19,Xuanbao Service Area,江苏,A,15,1.0,0.9,0.9,0.9,0.0
+19,Xuanbao Service Area,江苏,A,16,0.9,0.9,0.81,0.9,0.09
+19,Xuanbao Service Area,江苏,A,17,0.8,0.9,0.72,0.9,0.18
+19,Xuanbao Service Area,江苏,A,18,0.7,0.9,0.63,0.9,0.27
+19,Xuanbao Service Area,江苏,A,19,0.6,0.9,0.54,0.9,0.36
+19,Xuanbao Service Area,江苏,A,20,0.5,0.9,0.45,0.9,0.45
+19,Xuanbao Service Area,江苏,A,21,0.4,0.9,0.36,0.9,0.54
+19,Xuanbao Service Area,江苏,A,22,0.2,0.9,0.18,0.9,0.72
+19,Xuanbao Service Area,江苏,A,23,0.1,0.9,0.09,0.9,0.81
+20,Guangling Service Area,江苏,B,0,0.2,3.2,0.64,1.8,1.16
+20,Guangling Service Area,江苏,B,1,0.1,3.2,0.32,1.8,1.48
+20,Guangling Service Area,江苏,B,2,0.1,3.2,0.32,1.8,1.48
+20,Guangling Service Area,江苏,B,3,0.1,3.2,0.32,1.8,1.48
+20,Guangling Service Area,江苏,B,4,0.1,3.2,0.32,1.8,1.48
+20,Guangling Service Area,江苏,B,5,0.1,3.2,0.32,1.8,1.48
+20,Guangling Service Area,江苏,B,6,0.1,3.2,0.32,1.8,1.48
+20,Guangling Service Area,江苏,B,7,0.2,3.2,0.64,1.8,1.16
+20,Guangling Service Area,江苏,B,8,0.4,3.2,1.28,1.8,0.52
+20,Guangling Service Area,江苏,B,9,0.5,3.2,1.6,1.8,0.2
+20,Guangling Service Area,江苏,B,10,0.6,3.2,1.92,1.8,-0.12
+20,Guangling Service Area,江苏,B,11,0.7,3.2,2.24,1.8,-0.44
+20,Guangling Service Area,江苏,B,12,0.8,3.2,2.56,1.8,-0.76
+20,Guangling Service Area,江苏,B,13,0.9,3.2,2.88,1.8,-1.08
+20,Guangling Service Area,江苏,B,14,1.0,3.2,3.2,1.8,-1.4
+20,Guangling Service Area,江苏,B,15,1.0,3.2,3.2,1.8,-1.4
+20,Guangling Service Area,江苏,B,16,1.0,3.2,3.2,1.8,-1.4
+20,Guangling Service Area,江苏,B,17,1.0,3.2,3.2,1.8,-1.4
+20,Guangling Service Area,江苏,B,18,0.9,3.2,2.88,1.8,-1.08
+20,Guangling Service Area,江苏,B,19,0.8,3.2,2.56,1.8,-0.76
+20,Guangling Service Area,江苏,B,20,0.7,3.2,2.24,1.8,-0.44
+20,Guangling Service Area,江苏,B,21,0.6,3.2,1.92,1.8,-0.12
+20,Guangling Service Area,江苏,B,22,0.5,3.2,1.6,1.8,0.2
+20,Guangling Service Area,江苏,B,23,0.4,3.2,1.28,1.8,0.52
+21,Yangcheng Lake Service Area,江苏,C,0,0.5,4.5,2.25,2.8,0.55
+21,Yangcheng Lake Service Area,江苏,C,1,0.4,4.5,1.8,2.8,1.0
+21,Yangcheng Lake Service Area,江苏,C,2,0.2,4.5,0.9,2.8,1.9
+21,Yangcheng Lake Service Area,江苏,C,3,0.1,4.5,0.45,2.8,2.35
+21,Yangcheng Lake Service Area,江苏,C,4,0.1,4.5,0.45,2.8,2.35
+21,Yangcheng Lake Service Area,江苏,C,5,0.1,4.5,0.45,2.8,2.35
+21,Yangcheng Lake Service Area,江苏,C,6,0.1,4.5,0.45,2.8,2.35
+21,Yangcheng Lake Service Area,江苏,C,7,0.1,4.5,0.45,2.8,2.35
+21,Yangcheng Lake Service Area,江苏,C,8,0.1,4.5,0.45,2.8,2.35
+21,Yangcheng Lake Service Area,江苏,C,9,0.2,4.5,0.9,2.8,1.9
+21,Yangcheng Lake Service Area,江苏,C,10,0.4,4.5,1.8,2.8,1.0
+21,Yangcheng Lake Service Area,江苏,C,11,0.5,4.5,2.25,2.8,0.55
+21,Yangcheng Lake Service Area,江苏,C,12,0.6,4.5,2.7,2.8,0.1
+21,Yangcheng Lake Service Area,江苏,C,13,0.7,4.5,3.15,2.8,-0.35
+21,Yangcheng Lake Service Area,江苏,C,14,0.8,4.5,3.6,2.8,-0.8
+21,Yangcheng Lake Service Area,江苏,C,15,0.9,4.5,4.05,2.8,-1.25
+21,Yangcheng Lake Service Area,江苏,C,16,1.0,4.5,4.5,2.8,-1.7
+21,Yangcheng Lake Service Area,江苏,C,17,1.0,4.5,4.5,2.8,-1.7
+21,Yangcheng Lake Service Area,江苏,C,18,1.0,4.5,4.5,2.8,-1.7
+21,Yangcheng Lake Service Area,江苏,C,19,1.0,4.5,4.5,2.8,-1.7
+21,Yangcheng Lake Service Area,江苏,C,20,0.9,4.5,4.05,2.8,-1.25
+21,Yangcheng Lake Service Area,江苏,C,21,0.8,4.5,3.6,2.8,-0.8
+21,Yangcheng Lake Service Area,江苏,C,22,0.7,4.5,3.15,2.8,-0.35
+21,Yangcheng Lake Service Area,江苏,C,23,0.6,4.5,2.7,2.8,0.1
+22,Meicun Service Area,江苏,A,0,0.1,0.9,0.09,0.9,0.81
+22,Meicun Service Area,江苏,A,1,0.1,0.9,0.09,0.9,0.81
+22,Meicun Service Area,江苏,A,2,0.1,0.9,0.09,0.9,0.81
+22,Meicun Service Area,江苏,A,3,0.1,0.9,0.09,0.9,0.81
+22,Meicun Service Area,江苏,A,4,0.1,0.9,0.09,0.9,0.81
+22,Meicun Service Area,江苏,A,5,0.2,0.9,0.18,0.9,0.72
+22,Meicun Service Area,江苏,A,6,0.4,0.9,0.36,0.9,0.54
+22,Meicun Service Area,江苏,A,7,0.5,0.9,0.45,0.9,0.45
+22,Meicun Service Area,江苏,A,8,0.6,0.9,0.54,0.9,0.36
+22,Meicun Service Area,江苏,A,9,0.7,0.9,0.63,0.9,0.27
+22,Meicun Service Area,江苏,A,10,0.8,0.9,0.72,0.9,0.18
+22,Meicun Service Area,江苏,A,11,0.9,0.9,0.81,0.9,0.09
+22,Meicun Service Area,江苏,A,12,1.0,0.9,0.9,0.9,0.0
+22,Meicun Service Area,江苏,A,13,1.0,0.9,0.9,0.9,0.0
+22,Meicun Service Area,江苏,A,14,1.0,0.9,0.9,0.9,0.0
+22,Meicun Service Area,江苏,A,15,1.0,0.9,0.9,0.9,0.0
+22,Meicun Service Area,江苏,A,16,0.9,0.9,0.81,0.9,0.09
+22,Meicun Service Area,江苏,A,17,0.8,0.9,0.72,0.9,0.18
+22,Meicun Service Area,江苏,A,18,0.7,0.9,0.63,0.9,0.27
+22,Meicun Service Area,江苏,A,19,0.6,0.9,0.54,0.9,0.36
+22,Meicun Service Area,江苏,A,20,0.5,0.9,0.45,0.9,0.45
+22,Meicun Service Area,江苏,A,21,0.4,0.9,0.36,0.9,0.54
+22,Meicun Service Area,江苏,A,22,0.2,0.9,0.18,0.9,0.72
+22,Meicun Service Area,江苏,A,23,0.1,0.9,0.09,0.9,0.81
+23,Jiangqiao Terminal Area,上海,B,0,0.2,3.2,0.64,1.8,1.16
+23,Jiangqiao Terminal Area,上海,B,1,0.1,3.2,0.32,1.8,1.48
+23,Jiangqiao Terminal Area,上海,B,2,0.1,3.2,0.32,1.8,1.48
+23,Jiangqiao Terminal Area,上海,B,3,0.1,3.2,0.32,1.8,1.48
+23,Jiangqiao Terminal Area,上海,B,4,0.1,3.2,0.32,1.8,1.48
+23,Jiangqiao Terminal Area,上海,B,5,0.1,3.2,0.32,1.8,1.48
+23,Jiangqiao Terminal Area,上海,B,6,0.1,3.2,0.32,1.8,1.48
+23,Jiangqiao Terminal Area,上海,B,7,0.2,3.2,0.64,1.8,1.16
+23,Jiangqiao Terminal Area,上海,B,8,0.4,3.2,1.28,1.8,0.52
+23,Jiangqiao Terminal Area,上海,B,9,0.5,3.2,1.6,1.8,0.2
+23,Jiangqiao Terminal Area,上海,B,10,0.6,3.2,1.92,1.8,-0.12
+23,Jiangqiao Terminal Area,上海,B,11,0.7,3.2,2.24,1.8,-0.44
+23,Jiangqiao Terminal Area,上海,B,12,0.8,3.2,2.56,1.8,-0.76
+23,Jiangqiao Terminal Area,上海,B,13,0.9,3.2,2.88,1.8,-1.08
+23,Jiangqiao Terminal Area,上海,B,14,1.0,3.2,3.2,1.8,-1.4
+23,Jiangqiao Terminal Area,上海,B,15,1.0,3.2,3.2,1.8,-1.4
+23,Jiangqiao Terminal Area,上海,B,16,1.0,3.2,3.2,1.8,-1.4
+23,Jiangqiao Terminal Area,上海,B,17,1.0,3.2,3.2,1.8,-1.4
+23,Jiangqiao Terminal Area,上海,B,18,0.9,3.2,2.88,1.8,-1.08
+23,Jiangqiao Terminal Area,上海,B,19,0.8,3.2,2.56,1.8,-0.76
+23,Jiangqiao Terminal Area,上海,B,20,0.7,3.2,2.24,1.8,-0.44
+23,Jiangqiao Terminal Area,上海,B,21,0.6,3.2,1.92,1.8,-0.12
+23,Jiangqiao Terminal Area,上海,B,22,0.5,3.2,1.6,1.8,0.2
+23,Jiangqiao Terminal Area,上海,B,23,0.4,3.2,1.28,1.8,0.52

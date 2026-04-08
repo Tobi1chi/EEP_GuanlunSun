@@ -1,0 +1,75 @@
+experiment_id,variant_id,question,winner_case,winner_label,SC_1,HT,R_delay,V_reconf_norm,V_mob_net
+E10,reconf_12,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.05013551757518946,1.0,11.999999987999999,0.011618236824385427,-92.45677050588392
+E10,reconf_168,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.04420503737111407,1.0,19.938461535155504,4.625929268885991e-18,-103.04267409233535
+E10,reconf_24,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.04505430806794711,0.18181818181818182,12.666666659444443,6.314408225532712e-16,-92.87022145213268
+E10,reconf_48,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.04490435745294277,0.4,14.666666661777777,3.955629183903853e-15,-93.96244098394118
+E10,reconf_6,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.06255753868323351,0.9787234042553191,5.166666661777778,0.008722368153112297,-94.58184770424668
+E10,delay_0,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.0448703170863272,0.09090909090909091,0.0,3.4295910206666697e-12,-92.08201534499403
+E10,delay_1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.04505430806794711,0.18181818181818182,12.666666659444443,6.314408225532712e-16,-92.87022145213268
+E10,delay_2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.045308084190708545,0.18181818181818182,23.333333321888887,1.762357957366986e-11,-93.9624409831199
+E10,delay_3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.044834725790252807,0.2727272727272727,37.999999978333335,6.303077278735532e-13,-95.53428180863466
+E10,conc_0.35,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.20765270225208352,1.0,2.4666666664125927,2.9738116729260854e-17,-83.38357894736873
+E10,conc_0.50,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21605985914214615,1.0,2.999999999625,1.0243129095634294e-16,-81.0836789473683
+E10,conc_0.65,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22435263983195414,1.0,2.999999999625,1.817329355677052e-16,-78.27737894736856
+E10,conc_0.80,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23282003013896668,1.0,2.999999999625,2.9738116729260854e-17,-72.98760894736824
+E10,conc_0.95,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2428959492620295,1.0,3.053571428182079,0.376409774413682,-7.039566052631926
+E10,turnover_1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23563581562816846,1.0,2.999999999625,1.9825411152840566e-17,-66.48880894736885
+E10,turnover_2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23565557632430678,0.42857142857142855,2.999999999625,2.6433881537120757e-17,-66.48880894736885
+E10,turnover_3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23637383771050413,0.2857142857142857,3.053571428182079,5.947623345852171e-17,-59.3200839473684
+E10,turnover_4,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2370659919805439,0.14285714285714285,3.1071428567391584,7.269317422708208e-17,-50.36840894736861
+E10,d0_L12,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.24106167917834645,1.0,0.0,0.901920872581474,-22.70586876159541
+E10,d0_L24,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23884130560176786,1.0,0.0,0.06710526315230256,-39.02436447368427
+E10,d0_L3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2381040438390551,0.4,0.0,0.20835134801191077,-3.138478993626393
+E10,d0_L48,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23901252843280835,1.0,0.0,0.06710526315230256,-77.3682026315787
+E10,d0_L6,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2365959427041035,0.4,0.0,0.3722677065171243,-0.4729034084795103
+E10,d1_L12,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2393736258027004,1.0,6.8571428510204075,0.6071649974399932,-22.352608962995532
+E10,d1_L24,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23899373511809222,1.0,2.999999999625,0.012445175437559434,-41.03955894736828
+E10,d1_L3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.23739957346641857,0.4,1.4166666658194444,0.20835134801191083,-3.138478993626393
+E10,d1_L48,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23881499990281932,1.0,2.9999999998125,0.012445175437559384,-81.72655210526318
+E10,d1_L6,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2321694785428213,0.4,3.8333333300277777,0.3722677065171317,-0.47290340900366346
+E10,d2_L12,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.24013402955172553,1.0,9.047619041929705,0.5500349845502894,-24.054323001093053
+E10,d2_L24,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23909224573916976,1.0,5.99999999925,9.251858537771982e-18,-42.13646539473689
+E10,d2_L3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.229403377458305,0.6,2.833333331638889,0.20835134801191085,-3.138478993626393
+E10,d2_L48,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2392454065848284,1.0,5.999999999625,5.55111512266319e-17,-83.99503605263135
+E10,d2_L6,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.23321942232681822,0.6,5.3333333291111105,0.23887693718492267,0.11973395734713677
+E10,d3_L12,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2372251984559508,1.0,20.571428553061224,0.2624216524671458,-23.596692758336417
+E10,d3_L24,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2389723073039567,1.0,8.999999998875,2.5442610978872952e-17,-42.13646539473689
+E10,d3_L3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2316576349497486,0.6,3.9999999976666665,0.205386467240531,-3.381597338374746
+E10,d3_L48,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23957847336463753,1.0,9.314285713681599,1.1564823172214978e-18,-83.99503605263135
+E10,d3_L6,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2327468062648407,0.6,8.09999999363,0.14459146354505456,0.3737826266249158
+E10,d4_L12,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23761499276912024,1.0,18.09523808385941,0.18705684762913016,-24.94825972587796
+E10,d4_L24,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23912674922040206,1.0,11.9999999985,4.625929268885991e-18,-43.3080428947369
+E10,d4_L3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.23114023835773959,0.6,5.666666663277778,0.12547549743194086,-3.2236729958096646
+E10,d4_L48,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23885983349283402,1.0,11.99999999925,2.3129646344429958e-17,-86.33819105263183
+E10,d4_L6,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.23078715132718197,0.6,10.999999991416665,0.0,-0.6980907894736674
+E10,conc0.35_res1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.20765270225208352,1.0,2.4666666664125927,2.9738116729260854e-17,-83.38357894736873
+E10,conc0.35_res2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.20762706908042478,0.42857142857142855,2.499999999738889,5.2867763074241514e-17,-83.38357894736873
+E10,conc0.35_res3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.20824914824149984,0.42857142857142855,2.533333333065185,2.3129646344980663e-17,-83.38357894736873
+E10,conc0.35_res4,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.20948221229756916,0.2857142857142857,2.6416666663746065,2.3129646344980663e-17,-83.38357894736873
+E10,conc0.35_res5,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21010711530163073,0.2857142857142857,2.6416666663746065,6.608470384280189e-18,-83.38357894736828
+E10,conc0.50_res1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21605985914214615,1.0,2.999999999625,1.0243129095634294e-16,-81.0836789473683
+E10,conc0.50_res2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2161090912059097,0.42857142857142855,2.999999999625,7.269317422708208e-17,-81.0836789473683
+E10,conc0.50_res3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21658411354956525,0.2857142857142857,2.999999999625,4.956352788210142e-17,-79.93372894736876
+E10,conc0.50_res4,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21772111777786227,0.14285714285714285,2.999999999625,4.4607175093891275e-16,-78.78377894736832
+E10,conc0.50_res5,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21828024650275749,0.14285714285714285,2.999999999625,8.260587980350237e-17,-77.63382894736833
+E10,conc0.65_res1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22435263983195414,1.0,2.999999999625,1.817329355677052e-16,-78.27737894736856
+E10,conc0.65_res2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22442864890155992,0.42857142857142855,2.999999999625,1.883414059519854e-16,-78.27737894736856
+E10,conc0.65_res3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22474835899159665,0.2857142857142857,2.999999999625,6.27804686506618e-17,-75.72427894736848
+E10,conc0.65_res4,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22565501463305276,0.14285714285714285,2.999999999625,3.965082230568113e-17,-73.17117894736884
+E10,conc0.65_res5,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22611331825696845,0.14285714285714285,2.999999999625,1.0243129095634294e-16,-70.6180789473683
+E10,conc0.80_res1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23282003013896668,1.0,2.999999999625,2.9738116729260854e-17,-72.98760894736824
+E10,conc0.80_res2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23283270026914685,0.42857142857142855,2.999999999625,3.3042351921400945e-17,-72.98760894736824
+E10,conc0.80_res3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.233304962185376,0.2857142857142857,2.999999999625,3.965082230568113e-17,-68.02383394736808
+E10,conc0.80_res4,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.2347062856120173,0.14285714285714285,3.2142857138533163,6.938893903494198e-17,-62.18440894736841
+E10,conc0.80_res5,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23475823962418965,0.14285714285714285,2.999999999625,3.0233752008081865e-16,-57.2206339473687
+E10,conc0.95_res1,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2428959492620295,1.0,3.053571428182079,0.376409774413682,-7.039566052631926
+E10,conc0.95_res2,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.24286090805347155,0.42857142857142855,2.999999999625,0.18820488720684123,-5.458645000000615
+E10,conc0.95_res3,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.24298180339852768,0.2857142857142857,2.999999999625,0.1301691729245822,-0.3766200000000026
+E10,conc0.95_res4,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.2436866288882805,0.14285714285714285,3.1071428567391584,0.07213345864232246,14.58020499999975
+E10,conc0.95_res5,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",hybrid,Case C: Hybrid,0.24377254833457995,0.14285714285714285,3.1071428567391584,0.07213345864232247,19.17473000000018
+E10,fixed_wins,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.21447521086190696,0.14285714285714285,9.642857141559949,5.782411586245165e-17,-70.82696894736841
+E10,mobile_wins,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.23991701151625516,1.0,0.0,0.04182330826818737,-61.284494736842134
+E10,near_boundary,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.22667447484188805,0.42857142857142855,2.999999999625,3.3042351921400945e-17,-78.25205894736837
+E10,holiday_stagger,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",mobile_only,Case B: Mobile Only,0.06388722438013357,0.5,3.766233765169159,0.361339145334876,10671.041744423492
+E10,holiday_stress,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.04442501717561481,0.25,3.1407407402969545,4.866873659663706e-14,-61.876069925555385
+E10,site_month_heterogeneity,"Do SC_k, HT, R_delay, and V_reconf_norm help explain who wins?",fixed_only,Case A: Fixed Only,0.049207248561584906,0.8181818181818182,17.619047603451246,0.0010726626497323047,-93.50336223188742
